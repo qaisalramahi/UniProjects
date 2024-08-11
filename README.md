@@ -1,7 +1,7 @@
 
 # Diabetes Prediction using Machine Learning
 
-![Test Image 1](https://d18yrmqbzi0q7a.cloudfront.net/wp-content/uploads/diabetes-symptoms-and-treatment.jpg)
+![Test Image 1](diabetes-symptoms-and-treatment.jpg)
 
 Diabetes refers to a group of metabolic disorders characterized by elevated blood sugar levels over an extended period. Common symptoms of high blood sugar include frequent urination, increased thirst, and heightened hunger. Without proper treatment, diabetes can lead to a range of complications. It could even lead to death. Over the long term, diabetes can cause serious health issues such as cardiovascular disease, stroke, chronic kidney disease, foot ulcers, and damage to the eyes.
 

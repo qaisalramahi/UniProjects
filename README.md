@@ -35,7 +35,7 @@ Under the data preprocessing stage I learnt of something called feature scaling 
 
 We then split the model into testing and training data using the train_test_split function. This allows us to to train the model on 80 percent of the data then testing it on unseen data using the remaining 20 percent. Then in order for the model to be satisfactory, the right algorithm will have to be used. Now, I wouldn't say I was introduced to every algorithm out there, however out of the ones that I do know I decided to experiment on. So I went with 3 different ones... The SVM (Support Vector Machine), Random-Forest Classifier and the classic Logistic Regression which are all used in determining a binary classification problem. After testing the above-mentioned algorithms, I found out that without finetuning the best performing algorithm out of the three was the Logistic Regression. I also consolidated this information when introduced to the cross_val_score function which carries out a stratified k-fold validation technique splitting each batch/ fold of data into both training and testing data at some point which is much more accurate than the normal train_test_split. We managed to achieve a 77.5% accuracy which for a first-time project I am pretty happy with. 
 
-![Test Image 2]("C:\Users\ramah\Desktop\Jacobs University Files\Projects\DiabetesPredictorProject\LogisticRegression.png")
+![Test Image 2](LogisticRegression.png)
 
 Using the library known as Streamlit I managed to make the browser that allows a User to input the values they have for each of the Feature columns with a predict button found at the bottom that allows the user to see the outcome; whether "Diabetic" or "Non-diabetic".
 
